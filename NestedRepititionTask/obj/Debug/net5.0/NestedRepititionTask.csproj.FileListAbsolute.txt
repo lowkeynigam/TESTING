@@ -1,0 +1,16 @@
+C:\Users\Origin PC\Projects\NestedRepititionTask\bin\Debug\net5.0\NestedRepititionTask.exe
+C:\Users\Origin PC\Projects\NestedRepititionTask\bin\Debug\net5.0\NestedRepititionTask.deps.json
+C:\Users\Origin PC\Projects\NestedRepititionTask\bin\Debug\net5.0\NestedRepititionTask.runtimeconfig.json
+C:\Users\Origin PC\Projects\NestedRepititionTask\bin\Debug\net5.0\NestedRepititionTask.runtimeconfig.dev.json
+C:\Users\Origin PC\Projects\NestedRepititionTask\bin\Debug\net5.0\NestedRepititionTask.dll
+C:\Users\Origin PC\Projects\NestedRepititionTask\bin\Debug\net5.0\ref\NestedRepititionTask.dll
+C:\Users\Origin PC\Projects\NestedRepititionTask\bin\Debug\net5.0\NestedRepititionTask.pdb
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.csprojAssemblyReference.cache
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.AssemblyInfoInputs.cache
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.AssemblyInfo.cs
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.csproj.CoreCompileInputs.cache
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.dll
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\ref\NestedRepititionTask.dll
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.pdb
+C:\Users\Origin PC\Projects\NestedRepititionTask\obj\Debug\net5.0\NestedRepititionTask.genruntimeconfig.cache
